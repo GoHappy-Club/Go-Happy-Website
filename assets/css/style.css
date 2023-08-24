@@ -555,10 +555,10 @@ section {
   background: #ffbab4;
 }
 .values .box:hover h3 {
-  color: #fff;
+  /* color: #fff; */
 }
 .values .box:hover p {
-  color: #fff;
+  /* color: #fff; */
 }
 .values .box.orange {
   border-bottom: 3px solid #f68c09;
